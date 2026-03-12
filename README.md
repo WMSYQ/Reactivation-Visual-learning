@@ -1,1 +1,4 @@
 # Reactivation-Visual-learning
+License
+The code in this repository is licensed under the MIT License.
+The processed data provided in this repository is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
